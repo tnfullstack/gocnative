@@ -1,2 +1,2 @@
 # Cloud Native
-Learn Cloud Native Application in Golang 
+Learning Cloud Native Application in Golang 
